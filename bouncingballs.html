@@ -81,7 +81,7 @@ function moveBalls() {
   for (var i = 0; i < balls.length; i++) {
     var theBall = balls[i];
 
-if (theBall.positionX + parseFloat(ball.style.width) > 700) {
+if (theBall.positionX + parseFloat(ball.style.width) >= window.innerWidth) {
   theBall.forwards = false;
     changeColor(theBall);
 } else if (theBall.positionX <=0 ) {
@@ -89,7 +89,7 @@ if (theBall.positionX + parseFloat(ball.style.width) > 700) {
     changeColor(theBall);
 }
 
-if (theBall.positionY + parseFloat(ball.style.width) > 300) {
+if (theBall.positionY + parseFloat(ball.style.width) >= window.innerHeight) {
   theBall.down = false;
     changeColor(theBall);
 } else if (theBall.positionY <=0 ) {
