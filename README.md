@@ -6,14 +6,38 @@ This demo was created as part of the MITxEmeritus course.
 
 For this demo, I learned how to simulate the movement of balls bouncing against walls. We were then encouraged to adapt the demo creatively, so I added in code to respond to balls bouncing off of each other and to cause the balls to change speed and color.
 
+<h2>How to Run</h2>
+
+This project may be loaded in a browser. 
+
+<h2>Roadmap of Future Improvements</h2>
+
+I would like to continue deveoloping this simulation to be more sophisticated, such as giving the user some control over the balls.
+
 <h2>Support</h2>
 
-For help with this demo, please contact regan.kirk@gmail.com.
-
-<h2>Roadmap</h2>
-
-Down the line, I hope to develop this code to be more sophisticated.
+For help with this repo, please contact regan.kirk@gmail.com.
 
 <h2>License</h2>
 
-No license was required for this project.
+MIT License
+
+Copyright (c) 2020 John Williams
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
